@@ -10,6 +10,7 @@ ABC Communications is losing customers at a significant rate — a 26.5% overall
 📊 Presentation (Google Slides): https://docs.google.com/presentation/d/14Kgv0QoTla0rxX7QKc8DvO4_F_xR9RolfbFuEWYMZjE/edit?usp=sharing
 
 💼 LinkedIn Post:
+https://www.linkedin.com/posts/clementina-nestor-757155357_analystlabafrica-dataanalytics-python-share-7491416326767542272-7NIG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFjVNvMB6joTmIJMUfFNVW92D7i_6Le5ZBA
 
 ## Dataset
 
