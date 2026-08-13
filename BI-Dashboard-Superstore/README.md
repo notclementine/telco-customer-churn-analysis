@@ -5,6 +5,13 @@ This project simulates a Junior BI Analyst engagement for a national retail
 company, using Microsoft Power BI to build an executive dashboard analyzing 
 sales, profit, regional performance, and customer behavior.
 
+## Links
+📊 Google drive : 
+https://drive.google.com/drive/folders/1zRPKVZAGe9xNiy5EfPu2tdNR6qHOtrFo?usp=sharing
+
+💼 LinkedIn Post:
+https://www.linkedin.com/posts/clementina-nestor-757155357_analystlabafrica-dataanalytics-powerbi-share-7493333638151983105-nGS0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFjVNvMB6joTmIJMUfFNVW92D7i_6Le5ZBA
+
 ## Dataset
 Superstore Sales Dataset (9,994 records) — Kaggle
 
