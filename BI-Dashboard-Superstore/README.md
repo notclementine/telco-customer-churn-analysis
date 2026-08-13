@@ -1,4 +1,4 @@
-# Week 2: Business Intelligence Dashboard — Superstore Retail Analysis
+# Business Intelligence Dashboard — Superstore Retail Analysis
 
 ## Overview
 This project simulates a Junior BI Analyst engagement for a national retail 
