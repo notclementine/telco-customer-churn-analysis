@@ -1,4 +1,4 @@
-Telco Customer Churn Analysis
+## Telco Customer Churn Analysis
 
 Customer churn analysis for ABC Communications Ltd, a fictional telecom company, built as part of the **AnalystLab Africa Data Analytics Internship Programme (Week 1)**.
 
